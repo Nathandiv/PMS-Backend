@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79ba9639-79a8-435d-97a3-e6fb587fa0a7" name="Changes" comment="" />
+    <list default="true" id="79ba9639-79a8-435d-97a3-e6fb587fa0a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/CohortRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/CohortResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/StudentRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/StudentResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/service/CohortService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/UserResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/UserResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/repository/CohortRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/repository/CohortRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/UserResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/UserResponseDTO.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,16 +41,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.PmsBackendApplication.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_directory_selection": "/Users/damacm1104/Desktop/pmsTest/src/main/java/pmsBackend/pmsBackend"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.PmsBackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/damacm1104/Desktop/pmsTest/src/main/java/pmsBackend/pmsBackend&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

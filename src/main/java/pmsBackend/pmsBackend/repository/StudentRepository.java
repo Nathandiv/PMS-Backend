@@ -4,7 +4,11 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import pmsBackend.pmsBackend.entity.Student; // Import your Student entity
 
+import java.util.List;
+import java.util.Optional;
+
 @Repository
 public interface StudentRepository extends JpaRepository<Student, Long> {
-    // You can add custom query methods here if needed, e.g., findByEmailAddress, findByCohort
+    Optional<Student> findByEmailAddress(String emailAddress);
+    List<Student> findByFullNames(String fullNames);
 }
