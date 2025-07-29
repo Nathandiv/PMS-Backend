@@ -1,0 +1,10 @@
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/PmsBackendApplication.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/config/CorsConfig.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/config/SecurityConfig.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/dto/LoginRequest.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/dto/RegisterRequest.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/entity/Role.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/entity/User.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/repository/UserRepository.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/security/JwtService.java
+/Users/damacm1104/Desktop/ShaperProject/pmsBackend/src/main/java/pmsBackend/pmsBackend/service/UserService.java
