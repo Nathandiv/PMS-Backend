@@ -10,6 +10,24 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/StudentRequestDTO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/StudentResponseDTO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/service/CohortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/CohortRequestDTO$CohortRequestDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/CohortRequestDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/CohortResponseDTO$CohortResponseDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/CohortResponseDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/StudentRequestDTO$StudentRequestDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/StudentRequestDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/StudentResponseDTO$StudentResponseDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/StudentResponseDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/dto/UserResponseDTO$UserResponseDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/entity/Cohort$CohortBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/entity/Cohort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/entity/Student$StudentBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/entity/StudentStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/repository/CohortRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pmsBackend/pmsBackend/service/CohortService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/UserResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/dto/UserResponseDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/repository/CohortRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pmsBackend/pmsBackend/repository/CohortRepository.java" afterDir="false" />
